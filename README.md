@@ -17,7 +17,9 @@ Clone this repository to your local machine using the command:
 
 # bash
 Copy code
+
 **git clone https://github.com/diya-thabet/Competitive-Programming.git**
+
 Explore the contents of each book by navigating through the corresponding directory.
 
 Read the books either online or by purchasing them from the provided links.
